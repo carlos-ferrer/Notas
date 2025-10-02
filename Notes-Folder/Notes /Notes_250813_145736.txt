@@ -1,0 +1,17 @@
+8 folhas
+15 pessoas, distribuídas em 3 colunas com 5 pessoas cada
+
+Todos precisam assinar as 8 folhas
+
+Qual a forma mais eficiente de distribuí-las?
+
+Enumerar pessoas
+1, 2, 3, (...)
+
+Designar folhas por letras do alfabeto
+a, b, c, (...)
+
+Folhas assinadas são concatenadas ao número de identificação da pessoa que as assinou
+1a
+2abc
+2 assinou 3 folhas, 1 assinou 1

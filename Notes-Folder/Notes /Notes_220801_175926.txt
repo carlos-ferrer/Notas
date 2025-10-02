@@ -1,0 +1,8 @@
+Pré produção
+Produção
+Pós produção
+Mixagem masterizacao
+
+Assistente de produção musical
+
+Asio4all - permite pro tools funcionar sem interface de áudio

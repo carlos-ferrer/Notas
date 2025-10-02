@@ -1,0 +1,35 @@
+Prateleira 10
+Sozinho não significa nada
+
+Aproveitar zonas
+Corrigir produtos sem zona e zona errada
+Introduzir prateleiras e andares na localização
+
+Fragmentar ainda mais com o conceito de setor?
+1 e 2 - andares
+
+Quantas zonas são necessárias?
+
+Quanto mais fragmentação mais fácil de achar?
+
+Como reduzir a inclinação da curva de aprendizagem das localizações dos produtos?
+
+Com 20 zonas o estoque fica extremamente fragmentado, com uma parcela reduzida de ambiguidade
+Porém a complexidade aumenta
+
+A quantidade é arbitrária
+
+Atualmente estoque tem umas 10 zonas
+
+Com mais duas para o escritório e duas para o andar de baixo
+
+------
+Rastreabilidade de entradas e saídas - quanto antes um produto entra no estoque melhor, mesmo que não seja para constar como disponível
+
+Criação de estoque temporário para dar entrada e posterior geração de relatório para conferência?
+
+Não armazenar produtos antes que a conferência bata com a quantidade comprada
+
+^Isolamento de mercadorias em estoque e a entrar
+
+Grupo whatsapp - novos funcionários

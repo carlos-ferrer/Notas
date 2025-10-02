@@ -1,0 +1,12 @@
+4 viagens por dia para assis
+A cada 3 dias enche o tanque
+Diesel
+Considerar 70l o tanque
+
+"quase acabando"  - considerar que é 30% do tanque
+
+Gasta 49 l a cada 3 dias 
+4 idas 4 voltas - 8 viagens p dia
+
+8*40 = 240km por dia
+240*3 = 720km para ter 30% do tanque

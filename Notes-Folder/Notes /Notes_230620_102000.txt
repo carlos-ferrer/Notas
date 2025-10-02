@@ -1,0 +1,29 @@
+Conselheiro
+
+Sala laje pintura descascando
+Lascados parede
+Marcas de adesivo parede
+
+Cozinha mancha de gordura parede
+Piso lascados
+
+Quarto 1
+Lascados parede
+Marcas de adesivo parede
+Furos bucha
+
+Hall
+Tinta manchada
+Laje infiltração 
+
+Quarto 2
+Mancha infiltração parede
+Marcas adesivo parede
+Dois furos bucha
+Manchas sujeira parede
+Trincados parede estruturais
+Parede manchas outra tinta 
+
+Varanda
+Lascados parede 
+Prego

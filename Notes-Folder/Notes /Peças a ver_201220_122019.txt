@@ -1,0 +1,7 @@
+Xeon x3430
+Xeon e5 2420
+i5 2400
+
+Gtx 760
+Gtx 750 ti  ~630 ml
+Rx 480

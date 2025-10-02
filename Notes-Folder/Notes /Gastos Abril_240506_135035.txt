@@ -1,0 +1,39 @@
+Gastos Abril/2024
+
+Fixos:
+Luz: 149,73
+Água: 64,92
+Internet: 89,90
+Vivo: 74,67
+YT: 24,90
+Total: 404,12 - Pago dia 05/04
+
+Variáveis mês:
+369,18 - compra mercado 05/04
+12,60 - pizza 05/04
+200 - bicicleta 06/04
+95 - bicicleta 08/04
+20 - pim 08/04
+12 - fone 08/04
+20 - taxi 09/04
+11,60 - sorvete 09/04
+7 - cola rato 11/04
+76.96 - mercado 11/04
+25,87 - sorvete 11/04
+20,87 - lanche 13/04
+45,80 - ração e tapete higiênico cacau 15/04
+70 - banho cacau 15/04
+53,69 - mercado 16,04
+27,90 - 18/04
+30,97 - aiqfome 18/04
+30,87 - aiqfome 21/04
+21 - mercado 24/04
+13,77 - mercado 26/04
+
+Total: 1165,08
+
+Mercado: 541,6
+Restaurante: 180,68
+Bicicleta: 295
+Cacau: 115,8
+Transporte: 20

@@ -1,0 +1,14 @@
+51,95 mercado pago
+200 água e luz
+90 celular
+200 cartão crédito
+
+541,95 gastos fixos
+
+1280 salário + 200 cartão
+1480
+
+Sobra 938,05
+
+Se gastar com as três restaurações
+338,05

@@ -1,0 +1,22 @@
+1 2  3
+
+6 volumes totais  5 são de compostos
+
+3 nfs
+------------------------------------------------------------------
+1   3    7 
+^    ^     ^
+S    C    C
+
+s - simples
+c - composto
+
+11 volumes, 10 dos quais são de pedidos compostos
+Há 2 pedidos compostos 
+10 - 2 = 8
+A diferença entre a quantidade de volumes e quantidade de nfs deve ser de oito
+11-8 = 3
+
+São 3 nfs
+
+Diferença entre quantidade de nfs e quantidade de volumes = soma do total de volumes de pedidos de mais de um volume (pedidos compostos) subtraída da quantidade de pedidos compostos

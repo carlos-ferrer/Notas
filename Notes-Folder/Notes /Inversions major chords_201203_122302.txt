@@ -1,0 +1,8 @@
+Root - C E G
+major third minor third
+
+1st inversion - E G C
+minor third perfect fourth
+
+2nd inversion - G C E
+perfect fourth major third

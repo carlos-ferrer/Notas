@@ -1,0 +1,8 @@
+Gastos fixos
+
+Conta água: 140
+Conta luz: 50
+Parcela celular: 180
+Parcela mercadopago: 51,95
+
+421,95

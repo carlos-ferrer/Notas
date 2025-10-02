@@ -1,0 +1,6 @@
+1350 salário bruto
+1223,93 salário líquido
+
+Poupança = 30% do salário = 367,18
+
+Montante mensal para gasto: 856,75

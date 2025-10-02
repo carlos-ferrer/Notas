@@ -1,0 +1,39 @@
+Lista de compras (atualizar conforme necessidades) 
+
+Essenciais:
+
+Limpeza/Higiene
+[  ] Pasta de dentes
+[  ] Papel higiênico
+[  ] Amaciante
+[  ] Sabão em pó
+[  ] Sabonete
+[  ] Xampu
+[  ] Condicionador 
+[  ] Detergente 
+[  ] Água sanitária 
+[  ] Sabão em barra
+[  ] Desinfetante
+[  ] Álcool 
+[  ] Multiuso
+
+Alimentação
+[  ] Sal
+[  ] Arroz
+[  ] Feijão 
+[  ] Açúcar 
+[  ] Óleo vegetal
+[  ] Temperos
+[  ] Leite
+[  ] Café 
+[  ] Bolachas
+[  ] Ovos
+[  ] Carnes
+[  ] Macarrão 
+[  ] Molho de tomate
+[  ] Alho
+[  ] Cebola
+[  ] Verduras
+[  ] Frutas
+
+Não essenciais:

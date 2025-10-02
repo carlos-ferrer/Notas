@@ -1,0 +1,9 @@
+Criar canal categorias
+
+Regras
+Sugerir categoria
+Onde viu algo similar
+Exemplo de itens de categoria (mínimo 3)
+
+Não criar categoria para item singular
+Não criar categoria sem embasamento

@@ -1,0 +1,9 @@
+[  ] Cômoda
+[  ] Colchões
+[  ] Lençóis
+[  ] Fronhas
+[  ] Gabinete Pia
+[  ] Luva para frio
+[  ] Blusa de frio
+[v] Computador
+[  ] Moto

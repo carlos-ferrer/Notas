@@ -1,0 +1,7 @@
+I need help figuring out a way to get some data from a sheet and put it in another in subsequent columns following the date (each day gets a column). Source table has two relevant data that I want to transfer: product names and their respective quantity in storage.       
+
+     So I want to import all product names, put them in the A column, then import all corresponding quantities, every day. This is so I can keep track of all products in storage daily, and it is essential that the data is kept up to date, but that previous values never get reset, even if a product is deleted. Important to note is that rows in the source sheet can change (ie. Item is deleted), which is probably the one thing that has me stumped.
+
+    I think this can only be done with GAS, so both my attempts used it. I've tried a script with that copies all cells that have data, sorts it, then filters out only what I need and sets target sheet values to those. Problem is this way should any row be removed from the source sheet, it messes up with the data in the target sheet. I needed to somehow delete the same row in it. 
+
+    Using GAS to set empty columns to ImportRange formula, I run into the problem of auto-updating, which would be perfect for me were it not for the fact that every time something is changed in the source sheet (ie, something is sold), it also changes in every instance of importRange. I'd have to somehow freeze previous columns but still manage to get rid of them if a product is removed entirely from the source sheet.

@@ -1,0 +1,19 @@
+[  ] Cooktop Elétrico
+[  ] Ventilador
+[  ] Cesto de lixo
+[  ] Cesto de roupas
+[  ] Toalha
+[v] Sabonete
+[v] Lâmina de barbear
+[v] Sabão em pó 
+[  ] Papel higiênico
+[  ] Filtro de linha / extensão
+[  ] Panela e frigideira
+[v] Talheres
+[v] Copo
+[  ] Prato
+[  ] Lençol
+[  ] Coberta
+[v] Inseticida
+[v] Escova de dentes
+[v] Pasta de dentes

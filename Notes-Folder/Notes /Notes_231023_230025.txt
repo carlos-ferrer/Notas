@@ -1,0 +1,9 @@
+O que afeta tempo de convocação?
+
+Como WIS calcula tempo de convocação? Qual unidade? É média? Como acessar tempo por convocação?
+
+Ressuprimentos
+Quantidade de itens
+Estado do colaborador (saúde, estima pelo trabalho)
+
+Focar nos dois primeiros, visto que o último envolve diversos aspectos que fogem do alcance dessa análise

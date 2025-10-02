@@ -1,0 +1,7 @@
+Tela com círculo movendo, bater em borda quica (velocidade inverte) 
+
+Currículo/Portfólio: App (Java) ou Site (JS, HTML, CSS) 
+
+Joguinho simulando movimento de hidráulico (eixos e ângulos)
+
+Hub CG - notícias, eventos, transporte público

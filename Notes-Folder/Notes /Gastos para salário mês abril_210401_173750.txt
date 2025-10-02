@@ -1,0 +1,23 @@
+14,00 - marmita
+25,50 - frutas
+15 - lanche
+11 - sorvete
+118,68 - luz
+49,03 - água
+34 - remédios
+9,50 - lanche
+16,25 - aiq
+26,90 - coisa
+51,95 - mercadopago
+250 - poupança
+16,65
+Fixos:
+~120 - luz
+~50 - água
+51,95 - mercadopago
+
+Gastei 621,81 do salário à 1/4
+
+469,66 dos quais são fixos
+
+Gastos variáveis (desnecessários): 152,15 até aqui

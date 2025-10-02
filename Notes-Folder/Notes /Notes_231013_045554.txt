@@ -1,0 +1,65 @@
+Retira: 0 
+Entrega: 1-89
+Transferência: 90
+Paletizadas: 95
+-------------------------------------------------------------------------------
+1 - 1A020131     - -> 1 para fechar
+2 - 1C120471 
+2 - 1A111035
+3 - 1B040061
+3 - 1A120341
+3 - 1A010182
+3 - 1S010000
+3 - 1A180551
+3 - 1B020221
+7 - 1C070221     - -> 1 para fechar 
+90 - 1A150282
+90 - 1A120251
+90  - 1A090321
+90 - 1B030821
+(...)
+1 e 7 devem ser finalizados primeiro
+-------------------------------------------------------------------------------
+Fatores a considerar:
+
+Recusa de convocação;
+Abandono de convocação;
+Regras para envio de convocação;
+-------------------------------------------------------------------------------
+Todas as convocações que são resolvidas por líderes ou pessoal da mesa devem ser mantidas separadas - por meio de prioridade
+Utilização de prioridade -99 acarreta na perda do valor da prioridade - pode levar a acúmulo de separações segurando cargas
+
+Postulo que S, câmara fria e perdidos devem ter o sinal invertido apenas, assegurando que a informação da prioridade seja mantida ao mesmo tempo que isola elas para finalizar em momento oportuno
+
+-------------------------------------------------------------------------------
+Feita a análise de alguma separação e tendo sido constatado a necessidade de corte, prioridade deve ser alterada para um valor negativo que não possa ser confundido com outra prioridade relevante (tenho usado -50)
+
+-------------------------------------------------------------------------------
+
+Possibilidade utópica:
+Utilizar número de prioridade como mecanismo para filtrar convocações por setor bem como prioridade.
+
+Mecanismo:
+Fazer uso dos dois dígitos OU utilizar números decimais
+
+Exemplo: todas as convocações do bloco A podem ter o primeiro dígito 1, e o segundo sendo a própria prioridade 
+
+11
+11
+11
+11
+Apenas filtrando por prioridade é possível determinar que essas convocações são as de prioridade 1 e pertencem ao bloco A
+
+1, 2, 3, 4 = A, B, C, D
+
+Não funciona:
+Como acessar valores entre 11 e 29 exclusivamente? Ainda não encontrei fórmula para encontrar alcance de valores 
+
+Na possibilidade de haver mais de 10 cargas simultaneamente para um dos blocos o sistema quebra - solução possível seria fazer uso de valores decimais, mas será bem mais difícil convencer todos a fazer isso
+
+Se primeiro digito prioridade e segundo bloco:
+11,21,31,41,51,61,71,81,91 - propriedades A
+12,22,32,42,52,62,72,82,92 - prioridades B
+
+Como acessar esses valores exclusivamente? Não tenho acesso a operações aritméticas
+-------------------------------------------------------------------------------

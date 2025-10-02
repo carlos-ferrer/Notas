@@ -1,0 +1,19 @@
+Blackhills info sec
+
+Showdown
+
+0 day vulnerability
+
+Sql injection: 
+
+Owasp bricks
+
+Sqlmap
+
+Proxy
+
+Foxyproxy
+
+Altoromutual
+
+Tryhackme

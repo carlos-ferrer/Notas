@@ -1,0 +1,152 @@
+TRANSCREVER RELATÓRIOS MANUSCRITOS 15 E 20/09 AQUI OU EM OUTRA NOTA
+
+Ineficiências:
+
+Itens cadastrados no picking errado - perda de tempo na hora de separar, pois precisa ficar procurando produto - Reforçar padronização dos processos de ressuprimento e transferência 
+
+Ineficiência do coletor - impossível consultar movimentações ou localização de produtos enquanto em convocação - APARENTEMENTE NOVOS COLETORES REMOVEM ESSA DEFICIÊNCIA
+
+Falta de operadores - quando há ressuprimentos muitas vezes é necessário procurar operadores, que já estão sobrecarregados com outras tarefas; excesso de paletes no chão aguardando serem levantados, dificultando movimentação de hidráulicos e empilhadeiras, obrigando auxiliares a perder tempo movendo esses paletes de modo a "limpar" a rua - diminuição na quantidade de ressuprimentos (possível relatório com quantidade de ressuprimentos realizados? Seria eficiente geração de meta diária/semanal de ressuprimentos - estudar como poderia implementar se condição existir) OU contratação / formação de mais operadores
+
+Excesso de ressuprimentos - picking com poucos itens, torna necessário perder tempo da separação com ressuprimentos, que por sua vez só ocorrem ao contatar o operador de empilhadeira, que depois demora a levantar o palete caso não tenha sido feito ressuprimento da quantidade total do palete no picking - Reforçar padronização do processo, criar forma de controlar processos (relatórios com ressuprimentos realizados, supervisão mais rígida desses processos) 
+
+Cultura de "deixar que outro resolva" - muitos auxiliares, ao separarem mercadorias em ruas que não são suas, não se importam em bagunçar as longarinas, visto que podem deixar esse trabalho ao cuidador da rua em questão, isso interfere tanto na separação quanto nos ressuprimentos (deixam de ressuprir, ou então ressuprem com quantidades exageradas, fazendo com que falte espaço nos pickings) - Avaliar níveis de engajamento de colaboradores, buscar aproximá-los novamente se houve gradual desmotivação, eventuais medidas disciplinares, suspensão, etc - falta de comprometimento
+
+Além disso, falta de pessoal designado para treinamento gera ondas que repercutem em todos os processos, pois começa um efeito dominó em que cada colaborador realiza a tarefa de maneiras diferentes, e muitas dessas soluções alternativas são mais rápidas, porém totalmente incorretas e eventualmente levam a sobrecarga de colaboradores que agem corretamente - outro tópico em que a padronização se mostra deficiente 
+
+^ Similarmente, colaboradores antigos desmotivados ensinam eventuais novos colaboradores a não ter tanto compromisso 
+"não precisa se esforçar tanto" 
+"pra que se matar" 
+
+Falta de hidráulicos 
+Poucas baterias boas para coletores - esperar vinda de novos
+
+Breve artigo sobre impacto de falta de ferramentas no trabalho - http://www.anonymousemployee.com/csssite/sidelinks/lack_of_tools.php 
+
+Falta de espaço - ruas sujas atrapalham movimentação, Ineficiência no tráfego de pessoas e veículos (excesso de movimento nos boxes torna locomoção dificultosa) - avaliar possibilidade de padronizar trânsito 
+
+Computadores lentos, com hardwares defeituosos (telas com pixels queimados) - utilizar para confirmar se existe Ineficiência
+
+Desorganização ruas - paráfrase de relato comum entre colaboradores: "não vale a pena se esforçar pra terminar as convocações logo, porque quando acabarem as convocações de sua rua, você será designado para fazer separações em outras ruas e blocos que outros deixaram de fazer, e, ao terminar essas e voltar para sua rua, irá se deparar com ela em absoluta desordem, pois as convocações de sua rua que saíram enquanto você estava em outra foram realizadas por outros colaboradores, estes que não se atentam à organização e possuem mentalidade de que o responsável da rua deve organizá-la novamente. A organização nunca é atingida de fato, pois esse ciclo é perpetuado pelo fato de que em momentos de ócio não é solicitado que aconteça organização 
+
+Falta de comunicação entre colaboradores de determinada rua e colaboradores que estão fazendo separação nessa rua
+
+^ Situação encontrada: picking possuía apenas um produto, ao tentar ressuprir quantidade total do aéreo dono da rua sugere que deixe espaço no palete para eventuais itens novos que precisarem de picking
+
+^sugere falta de espaço, ideal seria um produto por picking, com exceção de produtos de mesmo tipo mas sabores diferentes, que vêm em paletes agrupados
+
+^Falta de espaço faz com que seja necessário otimizar o espaço disponível, pondo caixas em orientações que tornam a leitura de seus códigos e verificação de informações como nome do produto e sabor difíceis
+
+Operação possui diversos gargalos e situações onde ocorre perda de tempo efetivo de trabalho - 
+
+Rotina:
+- Bater ponto, pegar coletor 
+- Aguardar ligar enquanto procura por hidráulico
+- Aguardar recebimento de convocação 
+- Se ressuprimento, aguardar operador, ressuprir (mais eficiente - deixar ressuprimentos ppr último > se todos fizerem eles acumulam-se e podem travar demais operação) 
+- Se picking errado, consultar possíveis endereços (usando outro coletor), consultar movimentação > tempo perdido procurando produto 
+- Continuar processo até intervalo
+- Volta do intervalo > mais pessoal, pouco equipamento (contar quantidade de hidráulicos e confirmar se em todo dado momento no período da tarde alguém fica sem) 
+- Tempo perdido com baterias ruins > efetivamente inúteis, duram cerca de 10 minutos, contando com tempo de inicialização dos coletores (quantas baterias boas? Assegurar proporção 2:1 no mínimo, bem como mantenimento das cargas de baterias reservas) 
+
+Ideias:
+
+Aquisição de ferramentas de serviço - hidráulicos, baterias, canetas, canetões, estiletes 
+
+Contratações/treinamentos - sobretudo operadores 
+
+Oferecimento de programas para melhoria da qualidade do trabalho bem como orientação profissional - cursos, brainstorms
+
+Criação de canal facilitador de diálogo entre base operacional e supervisão (percebi que muitos têm ideias mas não expõem) 
+
+Aumento da rigidez da supervisão (câmeras?, relatórios?) 
+
+Criação de metas diárias (ou mensais) de separação (pensar em forma de considerar tempo estimado de tarefa do sistema + tempo gasto com ressuprimentos e locomoção - provavelmente envolve cálculos complexos demais, talvez não compense), lincadas diretamente com a meta de vendas para dado dia, informá-las aos colaboradores de forma direta, por meio das reuniões ou usando mural* POUCO PRÁTICO
+
+Estratégia: https://blog.impulseup.com/pdi-o-que-e/amp/ 
+
+Avaliações individuais de desempenho/plano de desenvolvimento individual
+
+Feedbacks individuais
+
+Realização de mutirão de organização de ruas - atribuir datas específicas para organização, cobrar que colaboradores mantenham tudo em ordem, controlar ressuprimentos e abolir ressuprimentos em que paletes são descidos e apenas é retirada a quantidade de caixas suficientes para a separação (*) 
+
+Aquisição de novos hidráulicos, com manutenção frequente
+
+Implementação de sistema para controle de uso de hidráulicos - semelhante ao dos coletores, ou destinar coletores para ruas específicas (esse só poderá ser feito quando todas as ruas estiverem organizadas e tiverem colaboradores responsáveis por elas) 
+
+*Situações encontradas que dificultam esse controle: ressuprimentos solicitados em paletes em que já foi realizado ressuprimento de outro item, mas em quantidade grande e portanto tornando o ressuprimento impossível 
+
+^
+Coletores novos anulam esse problema, se persistir, gerar relatórios para verificar motivo do não seguimento de protocolo  
+
+Todos os pickings devem fazer uso de quantidade mínima e máxima permitida, considerando que essas quantidades automaticamente invalidam qualquer ressuprimento com quantidade abaixo da mínima ou acima da máxima
+ 
+Qualidade total - todos os colaboradores devem estar cientes de seu impacto nos processos, como seu trabalho interfere no trabalho de outros, como os processos devem acontecer de forma ideal, encorajamento para colaboração e participação com proatividade, de modo a implementar ideia de que nosso cliente não é apenas o consumidor, aquele que compra diretamente, mas que em cada etapa do processo novos clientes são gerados, à medida em que uma etapa depende de outra (não gostaríamos que nossos clientes recebessem atendimento de baixa qualidade; por que aceitar que outros colaboradores tenham que lidar com dificuldades impostas por ineficiências básicas? - influencia no cliente acontece mesmo de forma indireta) 
+
+Overview de qualidade total (inglês) 
+https://www.techtarget.com/searchcio/definition/Total-Quality-Management#:~:text=Total%20Quality%20Management%20(TQM)%20is,%2C%20thus%2C%20delivering%20customer%20satisfaction. 
+
+Dúvidas - processos:
+
+O que é possível fazer com coletor? - verificar se há recursos úteis não utilizados 
+
+Quantos sistemas são usados? - existe integração ou operam de forma independente? 
+
+Como funcionam metas? Como aliá-las à base operacional de modo a incentivar batimento? (mesmo com 14° aparentemente estamos com rendimento baixo em vendas + avarias) 
+
+Possível fazer diagramas organizacionais? 
+
+Quantos colaboradores no armazém? (por período, por cargo, quantidade máxima diária) 
+
+Como avarias são impedidas? (punição está somente na diminuição do 14°? Existe alguma forma de diminuir consumo interno?) 
+
+Dúvidas - gestão do pessoal
+
+Como resolver falta de trabalho em equipe, desmotivação? 
+
+Como eliminar inclinação a evitar tarefas mais complexas? 
+
+^Recusam fazer por ser trabalhoso? 
+Tempo excessivo? 
+Dependência demais em outros colaboradores? 
+Qual a raiz desse problema (existe a possibilidade de ser simplesmente preguiça?) 
+
+^Se preguiça que tipo de tarefa recusam? Essa explicação traz a possibilidade de haver recusa sistêmica, levando a operação a efetivamente ter menos pessoal trabalhando do que a quantidade no papel
+
+-------------
+Mesa:
+
+Gargalos 
+
+14°
+
+Premissa: a não imposição de punições, e sim remoção de benefícios é uma medida pouco eficiente em um ambiente com grande número de colaboradores e supervisão limitada pela dimensão dos ambientes de trabalho
+
+Conceito:
+
+Salário bruto (sem descontos no benefício) ~ 1400
+20% referente às perdas ~ 280
+
+Assumindo furto diário de um colaborador mal intencionado:
+
+V. Diário   V. Semanal     V. Mensal
+5                        25            100
+10                      50            200
+15                      75            300 >excedeu benefício
+ 
+Dada a dimensão das perdas, considero improvável a existência de apenas um colaborador-problema 
+
+Questões
+
+Como reduzir perdas se campanhas da prevenção, reuniões semanais com líderes e constantes conversas não resolvem? 
+
+Por que não é prático seccionar perdas de acordo com sua razão/origem?
+
+Como poderia ser feito controle de origem de avarias/perdas, causa e responsável, com penalização de colaboradores que não demonstram interesse em seguir procedimentos, ou pior, ativamente sabotam a empresa furtando itens? 
+
+Quais itens são mais avariados? > por dia, semana, mês, média por setor e tipo
+
+Quao menos suscetíveis a avarias estão os setores confinados? 
+
+R$9970 em 18 dias - 553,88 p/dia

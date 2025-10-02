@@ -1,0 +1,16 @@
+Gastos Junho
+2114,18
+
+Fixos:
+82,62 - Vivo
+24,90 - Youtube
+89,90 - Internet
+66,73 - água
+207,09 - luz
+89,90 - internet 
+
+Total: 561,14 
+
+Variáveis:
+
+580 - máquina de lavar 06/06

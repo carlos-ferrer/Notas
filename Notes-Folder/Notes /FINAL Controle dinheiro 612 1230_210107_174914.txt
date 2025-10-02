@@ -1,0 +1,27 @@
+NÃO ATUALIZAR DIA E HORA AO ÚLTIMO GASTO ANTES DE SUBTRAÍ-LO DOS VALORES DESTA NOTA
+
+Yoou: 213,09   
+Bradesco: 125,04
+Mercado Pago: 137,97
+Poupança Sicoob: 100
+Carteira: 13,80
+
+Total inicial: 3170,80
+Total atual: 589,9
+Gastei: 2580,90
+Divergência para soma dos gastos: 22,54
+Poupança:
+13° = 225+295,32 = 520,32 
+
+1223,93 salário
+
+Poupança = 30% do salário = 367,18
+
+Montante para gasto: 856,75 + 13°
+1377,07
+
+Na poupança mês passado: 1425,64
+
+Poupança atual: 1425,64 + 367.18 = 1792,82
+
+Poupança = Mercado Pago + Sicoob

@@ -1,0 +1,37 @@
+24 240
+6 60
+10 100
+12 120
+3 30
+48 480
+72 720
+
+Quantidade de itens por endereço 
+Quantidade unidade por caixa 
+Quantidade endereços ressuprir
+Quantidade de cancelamento de separações
+
+Quantidade de ressuprimentos
+
+Relatório sai por unidade, precisava ser caixa para maior eficiência
+
+Solução mais simples: utilizar número arbitrário para definir busca por produto (ex. Qualquer produto com estoque inferior a 150 precisa ser ressuprido)
+NOTA: margem de erro aumenta com produtos com quantidades de unidade por caixa muito menores ou maiores do valor utilizado 
+Ex:
+Produto com 6 unidades na caixa - 60
+Produto com 72 unidades na caixa - 720
+
+Puxar produtos com quantidade de unidade inferior a 150: puxará apenas primeiro, com dez caixas, mas segundo, com mesma quantidade, não. 
+
+Solução 2: produzir relatório com produtos e quantidade de unidades por caixa, gerar média ponderada das quantidades, multiplicar média arredondada por valor de caixas de interesse (ex. média é 24.48 - > 24 un - para puxar produtos com menos de 10 caixas  >> inserir menor igual a 24 * 10 = 240) 
+NOTA: não tão eficiente quanto parece sob primeira análise - apenas se quantidade de unidade por caixa for homogênea > solução razoável seria utilizar valores diferentes de acordo com tamanho médio de caixa por setor 
+Complexidade muito elevada 
+
+Solução 3: produzir mesmo relatório da solução anterior, mas gerar nova planilha mesclando os dois relatórios, criando um relatório de ressuprimentos por endereço com as quantidades de caixas desejadas
+
+Passos:
+
+- Relatório geral de ressuprimento
+- Relatório geral de produtos
+- Associar códigos de ambos relatórios e alinhar quantidade de unidade por caixa
+- Filtrar relatório de ressuprimentos de acordo com quantidades de caixas desejadas

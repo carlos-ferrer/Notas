@@ -1,0 +1,7 @@
+If you want to retrieve the Wifi password of a known connection. Simply go to:
+
+/etc/NetworkManager/system-connections/
+
+sudo cat some-ap-profile
+
+https://net.ipcalf.com/

@@ -1,0 +1,50 @@
+Recebido: 1568,18
+
+Fixos:
+
+151,35 - Luz
+64,92 - Água
+89,90 - Internet
+24,90 - YT
+72,76 - Vivo
+
+Total: 403,83
+
+Poupança: 350
+
+64,40 - Mercado 06/05
+35 - Câmara ar 07/05
+36,90 - xadrez 09/05
+17,42 - ifood 09/05
+45 - banho cacau 10/05
+40 - corrente bicicleta - 10/05
+19,90 - caneta - 13/05
+62,92 - Mercado - 13/05
+100 - mãe 15/05
+39,40 - aiqfome 15/05
+19,99 - sorvete 15/05
+127,98 - mercado 19/05
+10,90 - Mercado 20/05
+66,19 - mercadi
+36,50 - aiqfome 23/05
+18,98 - aiqfome 25/05
+22 - aiqfome 26/05
+29,50 - aiqfome 26/05
+79,61 - mercado 27/05
+36,25 - mercado 29/05
+53 - aiqfome 29/05
+15,57 - mercado 30/05
+150 - fone 31/05
+31,77 - aiqfome 31/05
+53,99 - yubo 31/05
+33,85 - aiqfome 01/06
+23,80 - mercado 03/06
+14 - cola rato 04/06
+
+Variáveis: 1284,82
+
+Recebidos ao longo do mês:
+200
+346,38
+
+Total Gastos: 1688,65

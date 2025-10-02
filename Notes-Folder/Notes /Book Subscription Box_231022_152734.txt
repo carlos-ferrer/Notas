@@ -1,0 +1,8 @@
+[  ] Preferred genres
+[  ] Preferred authors
+[  ] Subscription type
+
+[  ] Make homepage
+[  ] Choose color pallete and overall theme
+[  ] Target audience?
+[  ]

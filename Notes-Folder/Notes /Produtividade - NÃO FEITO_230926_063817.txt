@@ -1,0 +1,10 @@
+Começar novamente a partir do dia 18
+
+O que inserir:
+
+Quantidade de separações feitas (a partir do aceite até entrega no box)
+Quantidade de ressuprimentos dentre essas separações - R
+Quantidade de separações com itens perdidos (picking errado, quantidade incorreta no sistema, obrigando ressuprimento forçado) - IP
+Se apenas item em local errado, IP, se item com quantidade incorreta, IPR
+
+Seria interessante anotar também em pelo menos um dia os horários entre uma separação e outra, incluindo as mesmas terminologias descritas anteriormente

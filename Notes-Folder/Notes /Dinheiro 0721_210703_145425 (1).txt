@@ -1,0 +1,17 @@
+570,57  - repor à conta nubank
+
+Gastos fixos: 337,93
+A guardar 200
+
+Totaliza 537,93 de dinheiro que não vou poder usar com certeza 
+
+Fatura cartão: 308,38
+
+Somando isso aos "gastos fixos": 846,31
+
+Gastos sem poupança: 337,93
+Gastos, poupança, sem cartão : 537,93
+Gastos, poupança e cartão: 846,31
+
+Não somar valor da fatura tem o intuito de considerar como certos os até 400 do próximo mês que seriam usados para pagar os até 400 de cartão que eu teria para usar
+Ou seja, é com a ideia de que vou poder gastar os 400 no cartão esse mês (400 gastos -  400 disponíveis = zera e não

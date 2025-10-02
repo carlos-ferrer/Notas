@@ -1,0 +1,7 @@
+Piratas do Vale do Silício é um drama que conta a história real das mentes por trás da criação de duas empresas que hoje são gigantes do Mundo da tecnologia: Apple e Microsoft.
+A história, guiada por coadjuvantes reais de ambas as mentes que moldaram o mundo da computação atual, Steve Jobs e Bill Gates, é narrada de forma descontraída para a audiência, em uma espécie de quebra da quarta parede intrigante e divertida.
+Apesar do tom leve dos personagens que expõem a trama, ela está longe de ser tal: um dos aspectos mais marcantes do filme é a coragem em mostrar de forma bruta e sincera como eram realmente os indivíduos envolvidos nele. Sem preocupar-se em retratar os abusos de Jobs com seus funcionários e familiares, por exemplo, o filme faz questão de nos lembrar que embora brilhante, era um homem com inúmeros defeitos.
+De destaque também é a precisão absoluta da produção para definir o elenco: com atores tão parecidos com suas contrapartidas que me fizeram questionar se não usaram truques de computação gráfica para recriar os personagens da forma mais fiel. Não usaram. 
+De fato, trata-se de uma dramatização, com  acontecimentos alterados e por vezes exagerados , o que não tira o enorme prazer em ver em escrutínio os primeiros passos de Jobs e Gates rumo ao epicentro da revolução do computador pessoal.
+
+por Carlos Daniel Viana Ferrer, Desenvolvimento de Sistemas I.

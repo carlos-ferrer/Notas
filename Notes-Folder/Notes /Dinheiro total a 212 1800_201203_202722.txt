@@ -1,0 +1,14 @@
+Bradesco: 0,91
+Yoou: 495,64
+Guarda-roupa: 930
+Carteira: 0
+Mercado pago: 0
+
+1425,55
+
+Total para gastos: total na conta bradesco
+Guarda-roupa : valor a deixar na poupança
+Poupança: conta yoou (500 todo mês)
+
+Na poupança atualmente: 1425,64
+(era pra ter 1500)

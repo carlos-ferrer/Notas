@@ -1,0 +1,15 @@
+Salário referente a fevereiro: 1287,85
+
+Gastos fixos:
+Energia: 120
+Água: 50
+Empréstimo mercadopago: 51,95
+Parcela celular: 90
+
+Salário - gastos fixos = 975,90
+- poupança = 775,90
+
+Se salário continuar a 1287,85
+Tenho 775,90 livres para aplicar gastos variáveis
+
+Alocar 300 reais para comida: sobram 475,90 para gastos variáveis
